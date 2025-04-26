@@ -15,6 +15,8 @@ l know you might that Suhail MD is a spam to your account but we have fixed all 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+SUHAIL+XMD+VERSION3+IS+READY;TO+RULE+ON+WHATSAPP+AGAIN" alt="Footer Animation">
 </h3>
 
+
+
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
@@ -41,14 +43,14 @@ First star & Fork the repo using the button below!
 ### 2. Get Session ID
 
 ### 😆 PORTAL CODE
-[![PORTAL_CODE](https://img.shields.io/badge/PORTAL_CODE-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)]()
+[![PORTAL_CODE](https://img.shields.io/badge/PORTAL_CODE-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://suhail-md-vtsf.onrender.com/)
 
 
 #### 😆 OPTION ONE
-[![PAIR_CODE_1](https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://here/pair)
+[![PAIR_CODE_1](https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://suhail-md-vtsf.onrender.com/code)
 
 #### 😉 OPTION TWO
-[![PAIR_CODE_2](https://img.shields.io/badge/PAIR_CODE_2-FF00AA?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://here/qr)
+[![PAIR_CODE_2](https://img.shields.io/badge/PAIR_CODE_2-FF00AA?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://suhail-md-vtsf.onrender.com/scan)
 
 > Connection issues may require VPN activation.
 
@@ -61,11 +63,11 @@ First star & Fork the repo using the button below!
 
 | Heroku | TalkDrove |
 |--------|-----------|
-| [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff)](https://dashboard.heroku.com/new?template=https://github.com/VORTEXxTHRIIZ/SUHAIL-MD/tree/main) | [![TalkDrove](https://img.shields.io/badge/TalkDrove-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://talkdrove.com/share-bot/11) |
+| [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff)](https://dashboard.heroku.com/new?template=https://github.com/KINGZORD263/SUHAIL-XMD/tree/main) | [![TalkDrove](https://img.shields.io/badge/TalkDrove-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://talkdrove.com/share-bot/11) |
 
 | Koyeb | Railway |
 |-------|---------|
-| [![Koyeb](https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000)](https://app.koyeb.com/services/deploy?type=git&repository=VORTEXxTHRIIZ/SUHAIL-MD) | [![Railway](https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000)](https://railway.app/new) |
+| [![Koyeb](https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000)](https://app.koyeb.com/services/deploy?type=git&repository=KINGZORD263/SUHAIL-XMD) | [![Railway](https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000)](https://railway.app/new) |
 
 | Render | Netlify |
 |--------|---------|
@@ -98,7 +100,8 @@ First star & Fork the repo using the button below!
 
 
 ![Background Image](https://files.catbox.moe/3z60b8.jpg)
-SUHAIL MD IS BACK🏆
+  <p align="center">
+<a href="https://github.com/GlobalTechInfo/followers"><img title="Followers" src="https://img.shields.io/github/followers/GlobalTechInfo?color=blue&style=flat-square"></a>
 
 
 > Don't forget to fork & star the repo!
